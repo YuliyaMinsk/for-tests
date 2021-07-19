@@ -20,6 +20,7 @@ So I'm always open to the idea of developing both hard and soft skills. I can ch
 ## Code examples:
 
 JavaScript:
+
 ```javascript
 
 function place (coordinate) {
@@ -83,9 +84,9 @@ function place (coordinate) {
                 dist = receiveDistance(event, target);
                 finalMessage = editMessage(dist);
                 $("#message").text(finalMessage);
-            })
-            
-`` ''
+            })            
+```
+
 ## Work experience
 I haven't experienced in working with real projects yet, but I'm always ready.
 ## Education
